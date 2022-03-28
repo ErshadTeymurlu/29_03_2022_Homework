@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\29_03_2022_HomeWork\bin\Debug\29_03_2022_HomeWork.exe.config
+C:\Users\HP\source\repos\29_03_2022_HomeWork\bin\Debug\29_03_2022_HomeWork.exe
+C:\Users\HP\source\repos\29_03_2022_HomeWork\bin\Debug\29_03_2022_HomeWork.pdb
+C:\Users\HP\source\repos\29_03_2022_HomeWork\obj\Debug\29_03_2022_HomeWork.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\29_03_2022_HomeWork\obj\Debug\29_03_2022_HomeWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\29_03_2022_HomeWork\obj\Debug\29_03_2022_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\29_03_2022_HomeWork\obj\Debug\29_03_2022_HomeWork.exe
+C:\Users\HP\source\repos\29_03_2022_HomeWork\obj\Debug\29_03_2022_HomeWork.pdb
